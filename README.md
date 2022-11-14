@@ -37,3 +37,5 @@ This is a simple program that will generate an email for you. You can input a li
    ```
 
 You should now be able to access the app at [http://localhost:3000](http://localhost:3000)!
+
+You can see the live website at [https://email-generator-three.vercel.app/](https://email-generator-three.vercel.app/)
